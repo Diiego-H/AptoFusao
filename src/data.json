@@ -1,0 +1,31 @@
+{
+    "searchItems": [
+        {"text":"Patata"},
+        {"text":"Poma"},
+        {"text":"Pastanaga"},
+        {"text":"Pollastre"},
+        {"text":"Llet"},
+        {"text":"Mango"},
+        {"text":"Raïm"},
+        {"text":"Taronja"},
+        {"text":"Platan"},
+        {"text":"Pera"},
+        {"text":"Mandarina"},
+        {"text":"Meló"},
+        {"text":"Síndria"},
+        {"text":"Pressec"},
+        {"text":"Acedia"},    
+        {"text":"Albergínia"},    
+        {"text":"All"},    
+        {"text":"Aranya"},    {"text":"Bacallà"},    {"text":"Berenjena"},    {"text":"Bleda"},    {"text":"Broquil"},    {"text":"Carabassa"},    {"text":"Ceba"},    {"text":"Ceps"},    {"text":"Cervell"},    {"text":"Cirera"},    {"text":"Citronella"},    {"text":"Cogombre"},    {"text":"Col"},    {"text":"Coliflor"},    {"text":"Coneixement"},    {"text":"Corb"},    {"text":"Esparrec"},    {"text":"Espinac"},    {"text":"Formatge"},    {"text":"Fruita de la passió"},    {"text":"Gambes"},    {"text":"Gira-sol"},    {"text":"Gra"},    {"text":"Grelo"},    {"text":"Groc"},    {"text":"Herba dolça"},    {"text":"Kiwi"},    {"text":"Llenties"},    {"text":"Mandonguilla"},      {"text":"Mel"},    {"text":"Meló"},    {"text":"Mocador"},    {"text":"Nabiu"},    {"text":"Nou"},    {"text":"Oli"},    {"text":"Oliva"},    {"text":"Ostra"},    {"text":"Pebrot"},    {"text":"Peix"},    {"text":"Pinya"},    {"text":"Porc"},    {"text":"Pota blava"},    {"text":"Ratafia"},    {"text":"Rúcula"},    {"text":"Safata"},    {"text":"Tomàquet"}
+
+
+    ],
+
+    "searchExercises": [
+        {"text":"Crunch estàndard"},
+        {"text":"Elevació de cames"},
+        {"text":"Planxa lateral"},
+        {"text":"Esquats estàndard"}
+    ]
+}
